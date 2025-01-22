@@ -1,0 +1,14 @@
+{
+	"name": "Paige's RVGL Repository",
+	"version": "25.0122",
+	"packages": {
+		"paige_pistoncup": {
+			"description": "Cars and Track from Pixar `Cars`",
+			"version": "25.0122",
+			"checksum": "a01fece531bf02fdb257969e15e1f637d4e013aff64a517e25aeebdbc299bb51",
+			"url": "https://github.com/JustCallMePaige/paigervgl/Piston_Cup.zip",
+			"file": "Piston_Cup.zip"
+		}
+		
+	}
+}
