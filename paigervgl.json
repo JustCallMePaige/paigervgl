@@ -9,5 +9,12 @@
 			"url": "https://justcallmepaige.github.io/paigervgl/pistoncup.7z",
 			"file": "pistoncup.7z"
 		}
+		"paige_akc2026": {
+			"description": "ARM Kart and ARM Kart Tracks for the 2026 AKC",
+			"version": "26.0127",
+			"checksum": "64e578e45ef92db98318ab6eb04dce6d4101d298d556444743d6828b4786180e",
+			"url": "https://justcallmepaige.github.io/paigervgl/akc2026.7z",
+			"file": "akc2026.7z"
+		}
 	}
 }
