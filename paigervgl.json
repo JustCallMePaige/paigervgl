@@ -11,8 +11,8 @@
 		},
 		"paige_akc2026": {
 			"description": "ARM Kart and ARM Kart Tracks for the 2026 AKC",
-			"version": "26.0128",
-			"checksum": "64e578e45ef92db98318ab6eb04dce6d4101d298d556444743d6828b4786180e",
+			"version": "26.0129",
+			"checksum": "ca3aba5da7f18afbe9dd578d5cdf6509873b7f120bce11475137182b1e707eb4",
 			"url": "https://justcallmepaige.github.io/paigervgl/akc2026.7z",
 			"file": "akc2026.7z"
 		}
