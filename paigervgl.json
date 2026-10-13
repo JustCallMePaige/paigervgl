@@ -4,8 +4,8 @@
 	"packages": {
 		"paige_pistoncup": {
 			"description": "Cars and Track from Pixar `Cars`",
-			"version": "26.0807",
-			"checksum": "1755b6a7ef24a4a9cdbb1f1e243312c88b95dfb4b1a0089a5eaf9b81e38255f6",
+			"version": "26.1013",
+			"checksum": "4e63386d6b504bec0086277c452f64b7fc1b65ea88e7acea85255ef33c6525bd",
 			"url": "https://justcallmepaige.github.io/paigervgl/pistoncup.7z",
 			"file": "pistoncup.7z"
 		},
